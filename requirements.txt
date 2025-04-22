@@ -1,0 +1,4 @@
+pybit
+pandas
+pandas_ta
+python-dotenv # Optional, if using .env file

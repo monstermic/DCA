@@ -1,0 +1,12 @@
+{
+    "filled_safety_orders_count": 1,
+    "calculated_base_qty_this_cycle": 0.001,
+    "active_safety_order_ids": [],
+    "is_in_trade": true,
+    "current_trade_entry_timestamp": 1745303250762,
+    "current_trade_side": "Sell",
+    "current_trade_avg_price": 77726.05,
+    "pending_entry_order_id": null,
+    "pending_order_placed_timestamp": 0,
+    "tsl_activated_this_trade": false
+}
